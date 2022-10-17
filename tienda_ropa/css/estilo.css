@@ -1,0 +1,15 @@
+html{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 6.5px;
+  scroll-behavior: smooth;
+}
+
+body{
+  background-color: rgb(15,15,15);
+  text-align: center;
+  margin: 2%;
+}
+
+*{
+  box-sizing: border-box;
+}
