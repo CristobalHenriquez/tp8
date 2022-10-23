@@ -7,9 +7,12 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Tienda de ropa</h1>
+  <h1>Tienda de ropa</h1>
+  <button type="submit"><a href="index.html">Inicio</a></button>
+  <button type="submit"><a href="listar.php">Listar ropa</a></button>
+  <button type="submit"><a href="agregar.html">Agregar ropa</a></button>
 
-    <h2>Lista de ropa</h2>
+    <h2>Lista de ropa Supreme</h2>
     <p>La siguiente lista muestra los datos de la ropa actualmente en stock.</p>
     <table border="1">
     <tr>
